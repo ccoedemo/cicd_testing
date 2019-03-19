@@ -1,3 +1,5 @@
+trigger.
+
 import groovy.json.JsonOutput 
 
 node {
